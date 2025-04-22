@@ -1,0 +1,2042 @@
+[
+  {
+    "instruction": "How can I write a strong summary for my resume as a fresher?",
+    "input": "",
+    "output": "As a fresher, your resume summary should highlight your education, key skills, and career aspirations while showing enthusiasm. Keep it concise (2\u20133 sentences). Example: 'Recent Computer Science graduate with a strong foundation in Python and database management, eager to contribute to innovative software solutions. Completed internships focused on web development, demonstrating adaptability and teamwork.'"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point to be more impactful?",
+    "input": "Worked on a team project to build a website.",
+    "output": "Collaborated in a team of 4 to design and develop a responsive e-commerce website using HTML, CSS, and JavaScript, enhancing user engagement by 20%."
+  },
+  {
+    "instruction": "What sections should I include in my resume as a recent graduate?",
+    "input": "",
+    "output": "Include these sections: Contact Information, Summary, Education, Skills, Projects, Internships/Work Experience (if any), and Certifications. Optionally, add Volunteer Work or Extracurricular Activities if relevant. Keep it to 1 page and prioritize what aligns with the job."
+  },
+  {
+    "instruction": "How can I make my resume ATS-friendly?",
+    "input": "",
+    "output": "Use standard section headings (e.g., 'Work Experience,' 'Education'), incorporate job-specific keywords from the job description, avoid headers/footers, and use a clean font like Arial or Calibri. Save as a .docx or .pdf (check employer requirements)."
+  },
+  {
+    "instruction": "How do I describe my internship experience on my resume?",
+    "input": "I interned at a marketing firm for 3 months.",
+    "output": "Detail your role, tasks, and impact. Example: 'Marketing Intern | XYZ Agency | June\u2013Aug 2024\n- Created social media content for 3 client campaigns, increasing engagement by 12%.\n- Analyzed market trends to support strategy development, presenting insights to senior team.'"
+  },
+  {
+    "instruction": "What skills should I list on my resume for a data analyst role?",
+    "input": "",
+    "output": "Include technical skills like Python, R, SQL, Excel, Tableau, or Power BI, and soft skills like analytical thinking and communication. Tailor them to the job description. Example: 'Proficient in SQL for data querying, Python for statistical analysis, and Tableau for data visualization.'"
+  },
+  {
+    "instruction": "How can I improve my LinkedIn profile to match my resume?",
+    "input": "",
+    "output": "Use the same professional headline as your resume summary, list identical skills and experiences, and add a detailed 'About' section mirroring your career goals. Include a professional photo and customize your URL. Engage by posting industry-related content."
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Helped with testing software applications.",
+    "output": "Conducted manual testing for software applications, identifying and reporting 30+ bugs to improve product reliability."
+  },
+  {
+    "instruction": "How do I tailor my resume for a software developer internship?",
+    "input": "",
+    "output": "Highlight relevant coursework, projects, and technical skills (e.g., Java, Python, Git). Use keywords from the job description, quantify achievements (e.g., 'Developed a task management app serving 50+ users'), and emphasize teamwork or problem-solving in bullet points."
+  },
+  {
+    "instruction": "What\u2019s a good way to prepare for a behavioral interview?",
+    "input": "",
+    "output": "Use the STAR method (Situation, Task, Action, Result) to structure answers. Prepare 5\u20136 stories showcasing teamwork, problem-solving, and adaptability. Practice common questions like 'Tell me about a time you faced a challenge' and align stories with the job\u2019s requirements."
+  },
+  {
+    "instruction": "How can I showcase my academic projects on my resume?",
+    "input": "",
+    "output": "Create a 'Projects' section. For each project, list the title, tools/technologies used, and impact. Example: 'Sentiment Analysis Tool | Python, NLTK\n- Built a model to analyze customer reviews, achieving 85% accuracy in sentiment prediction.'"
+  },
+  {
+    "instruction": "What should I avoid including on my resume?",
+    "input": "",
+    "output": "Avoid personal details (age, marital status), irrelevant hobbies, outdated skills, or generic phrases like 'hardworking.' Don\u2019t include references unless requested, and skip high school details if you\u2019re in college."
+  },
+  {
+    "instruction": "How do I write a cover letter for a job I have no experience in?",
+    "input": "",
+    "output": "Focus on transferable skills, enthusiasm, and research about the company. Example: 'As a recent graduate with strong problem-solving skills from group projects, I\u2019m excited to apply my adaptability to [Company\u2019s] innovative team.' Keep it to 1 page."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for clarity?",
+    "input": "Did some data analysis for a project.",
+    "output": "Performed data analysis using Python and Pandas, generating actionable insights that improved project efficiency by 10%."
+  },
+  {
+    "instruction": "How do I list certifications on my resume?",
+    "input": "",
+    "output": "Create a 'Certifications' section. List the certification name, issuing organization, and date earned. Example: 'Certified Data Analyst | Google | May 2024.' Only include relevant and recent certifications."
+  },
+  {
+    "instruction": "What\u2019s the best resume format for a fresher with no work experience?",
+    "input": "",
+    "output": "Use a functional or hybrid format. Lead with a strong summary, followed by Education, Skills, Projects, and Certifications. Place less emphasis on Work Experience, or replace it with Internships/Volunteer Work."
+  },
+  {
+    "instruction": "How can I make my resume stand out for a graphic design internship?",
+    "input": "",
+    "output": "Showcase a portfolio link in your contact section, highlight design tools (e.g., Adobe Photoshop, Figma), and include visually impactful project descriptions. Example: 'Designed 10+ social media graphics, increasing client engagement by 25%.'"
+  },
+  {
+    "instruction": "How do I answer 'What are your weaknesses?' in an interview?",
+    "input": "",
+    "output": "Choose a real but non-critical weakness, explain how you\u2019re improving, and show self-awareness. Example: 'I used to struggle with time management, but I\u2019ve implemented daily prioritization tools, which have improved my project delivery by 20%.'"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point to quantify results?",
+    "input": "Managed social media accounts for a small business.",
+    "output": "Managed social media accounts for a small business, growing follower base by 30% and boosting post engagement by 15% over 6 months."
+  },
+  {
+    "instruction": "How do I optimize my resume for a customer service role?",
+    "input": "",
+    "output": "Emphasize communication, problem-solving, and empathy. Use keywords like 'client satisfaction' or 'issue resolution.' Example: 'Resolved 50+ customer inquiries daily, achieving a 95% satisfaction rate.' Highlight relevant tools like CRM software."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork skills on my resume?",
+    "input": "",
+    "output": "Use action verbs and specific examples. Example: 'Collaborated with a 5-member team to develop a mobile app, ensuring seamless integration of front-end and back-end components.' Highlight outcomes like meeting deadlines or improving efficiency."
+  },
+  {
+    "instruction": "How can I prepare for a technical interview for a software role?",
+    "input": "",
+    "output": "Practice coding problems on platforms like LeetCode or HackerRank, focusing on data structures and algorithms. Review your projects to explain your code clearly, and prepare for system design questions if applicable. Mock interviews help build confidence."
+  },
+  {
+    "instruction": "How do I include volunteer experience on my resume?",
+    "input": "",
+    "output": "List it under a 'Volunteer Experience' section if relevant to the job. Example: 'Volunteer Tutor | Local NGO | Jan\u2013Mar 2024\n- Taught math to 15 high school students, improving average test scores by 10%.' Focus on transferable skills."
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Learned about cloud computing in a course.",
+    "output": "Gained hands-on experience with AWS through a cloud computing course, deploying a web application with 99.9% uptime."
+  },
+  {
+    "instruction": "How do I write a resume objective for a marketing internship?",
+    "input": "",
+    "output": "Write a concise objective focusing on your skills and goals. Example: 'Aspiring marketing professional with expertise in content creation and SEO, seeking to contribute to innovative campaigns at [Company Name].'"
+  },
+  {
+    "instruction": "What fonts are best for a professional resume?",
+    "input": "",
+    "output": "Use clean, readable fonts like Arial, Calibri, Garamond, or Times New Roman. Stick to 10\u201312 pt for body text and 14\u201316 pt for headings. Ensure consistency and avoid decorative fonts."
+  },
+  {
+    "instruction": "How can I highlight my leadership skills on my resume?",
+    "input": "",
+    "output": "Use examples of leading projects or teams. Example: 'Led a 6-member team in a university hackathon, developing a prize-winning app prototype in 48 hours.' Quantify results where possible."
+  },
+  {
+    "instruction": "What\u2019s a good way to follow up after a job interview?",
+    "input": "",
+    "output": "Send a concise thank-you email within 24 hours, reiterating your interest and referencing a specific discussion. Example: 'Thank you for discussing [topic]. I\u2019m excited about contributing to [Company\u2019s] goals.' Keep it professional."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a finance role?",
+    "input": "Helped with financial reports.",
+    "output": "Assisted in preparing monthly financial reports, ensuring 100% accuracy in budget tracking for 5 departments."
+  },
+  {
+    "instruction": "How do I list programming languages on my resume?",
+    "input": "",
+    "output": "Group them under a 'Skills' section, specifying proficiency if relevant. Example: 'Programming Languages: Python (Advanced), Java (Intermediate), JavaScript (Beginner).' Tailor to the job\u2019s requirements."
+  },
+  {
+    "instruction": "How can I make my resume more concise?",
+    "input": "",
+    "output": "Limit to 1 page, use bullet points (3\u20135 per role), remove redundant phrases (e.g., 'responsible for'), and focus on impactful achievements. Cut irrelevant or outdated experiences, like high school details."
+  },
+  {
+    "instruction": "What should I include in my resume\u2019s contact information?",
+    "input": "",
+    "output": "Include your full name, phone number, professional email, LinkedIn URL, and optionally a portfolio/GitHub link. Avoid including your full address unless required by the employer."
+  },
+  {
+    "instruction": "How do I prepare for a group interview?",
+    "input": "",
+    "output": "Research the company, practice active listening, and prepare to collaborate without dominating. Share concise, relevant ideas and engage with others\u2019 points. Example: Agree with a peer\u2019s idea and build on it constructively."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point to sound more professional?",
+    "input": "Fixed bugs in code.",
+    "output": "Identified and resolved 20+ software bugs, enhancing application stability and user experience."
+  },
+  {
+    "instruction": "How do I customize my resume for a project management role?",
+    "input": "",
+    "output": "Highlight organizational and leadership skills, and use keywords like 'Agile,' 'Scrum,' or 'stakeholder management.' Example: 'Coordinated a 5-person team to deliver a project 10% under budget using Agile methodologies.'"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving skills on my resume?",
+    "input": "",
+    "output": "Use specific examples with outcomes. Example: 'Resolved a critical database issue by optimizing SQL queries, reducing report generation time by 30%.' Emphasize initiative and impact."
+  },
+  {
+    "instruction": "How can I improve my chances of passing an ATS for a sales role?",
+    "input": "",
+    "output": "Incorporate keywords from the job description, such as 'client acquisition,' 'revenue growth,' or 'CRM tools.' Use standard headings and quantify achievements, like 'Increased sales by 15% through targeted outreach.'"
+  },
+  {
+    "instruction": "How do I list soft skills on my resume without sounding generic?",
+    "input": "",
+    "output": "Tie soft skills to specific achievements. Example: 'Demonstrated strong communication by presenting project updates to 20+ stakeholders, ensuring alignment.' Avoid vague terms like 'team player' without context."
+  },
+  {
+    "instruction": "What\u2019s a good way to answer 'Why do you want this job?'",
+    "input": "",
+    "output": "Align your skills and goals with the company\u2019s mission. Example: 'I\u2019m drawn to [Company\u2019s] innovative approach to AI, and my Python expertise and passion for data-driven solutions make me eager to contribute to your team.'"
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Did some work on a mobile app.",
+    "output": "Developed key features for a mobile app using React Native, improving user retention by 18%."
+  },
+  {
+    "instruction": "How do I write a resume for a job with no relevant experience?",
+    "input": "",
+    "output": "Focus on transferable skills from coursework, projects, or volunteer work. Example: For a marketing role, highlight a university project where you created a campaign. Use a functional resume format to emphasize skills over experience."
+  },
+  {
+    "instruction": "How can I prepare for a virtual job interview?",
+    "input": "",
+    "output": "Test your tech (camera, mic, internet), choose a quiet, well-lit space, and dress professionally. Practice answering questions on Zoom and keep notes handy but out of sight. Research the company thoroughly."
+  },
+  {
+    "instruction": "How do I include extracurricular activities on my resume?",
+    "input": "",
+    "output": "List them under 'Activities' or 'Leadership' if relevant. Example: 'President, Coding Club | Sep 2023\u2013May 2024\n- Organized 10 workshops, increasing membership by 25%.' Focus on skills like leadership or teamwork."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a teaching role?",
+    "input": "Taught students in a classroom.",
+    "output": "Delivered engaging lessons to 30+ students, improving average test scores by 15% through interactive teaching methods."
+  },
+  {
+    "instruction": "How do I negotiate a salary as a fresher?",
+    "input": "",
+    "output": "Research market rates for the role and location, then politely ask if there\u2019s flexibility. Example: 'Based on my research, entry-level roles in this field typically range from $X\u2013$Y. Is there room to discuss the offer?' Be confident but respectful."
+  },
+  {
+    "instruction": "What\u2019s the best way to describe a group project on my resume?",
+    "input": "",
+    "output": "Highlight your role and the outcome. Example: 'Led front-end development in a 4-person team for a web app, integrating APIs to enable real-time data display, completed 1 week ahead of schedule.'"
+  },
+  {
+    "instruction": "How can I optimize my resume for a content writing role?",
+    "input": "",
+    "output": "Showcase writing samples via a portfolio link, highlight SEO and CMS skills, and quantify impact. Example: 'Wrote 20+ blog posts, increasing website traffic by 10% through SEO optimization.'"
+  },
+  {
+    "instruction": "How do I answer 'Tell me about yourself' in an interview?",
+    "input": "",
+    "output": "Summarize your background, skills, and goals in 1\u20132 minutes. Example: 'I\u2019m a recent CS graduate with experience in Python and web development from internships. I\u2019m passionate about building user-friendly apps and excited to grow at [Company].'"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point to be more specific?",
+    "input": "Worked on improving website performance.",
+    "output": "Optimized website performance by reducing page load time by 25% through CSS and JavaScript enhancements."
+  },
+  {
+    "instruction": "How do I list coursework relevant to a job on my resume?",
+    "input": "",
+    "output": "Include a 'Relevant Coursework' section under Education. Example: 'Relevant Coursework: Data Structures, Machine Learning, Database Systems.' Only list courses that align with the job\u2019s requirements."
+  },
+  {
+    "instruction": "How can I make my resume visually appealing?",
+    "input": "",
+    "output": "Use a clean layout with consistent formatting, ample white space, and professional fonts (e.g., Calibri). Add subtle dividers or bold headings, but avoid graphics or colors unless applying for a creative role."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe time management skills on my resume?",
+    "input": "",
+    "output": "Showcase specific examples. Example: 'Managed multiple deadlines by prioritizing tasks, delivering 5 group projects on time while maintaining a 3.8 GPA.'"
+  },
+  {
+    "instruction": "How do I prepare for a case study interview?",
+    "input": "",
+    "output": "Practice structuring problems logically, use frameworks (e.g., SWOT), and explain your thought process clearly. Research the industry and practice with sample cases online. Mock interviews with peers help."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail job?",
+    "input": "Helped customers in a store.",
+    "output": "Assisted 50+ customers daily, resolving inquiries and recommending products to boost sales by 10%."
+  },
+  {
+    "instruction": "How do I list awards on my resume?",
+    "input": "",
+    "output": "Create an 'Awards & Honors' section. Example: 'Dean\u2019s List | XYZ University | Fall 2023\u2013Spring 2024.' Include only relevant, recent awards and provide context if needed."
+  },
+  {
+    "instruction": "How can I optimize my resume for a human resources role?",
+    "input": "",
+    "output": "Highlight interpersonal skills, knowledge of HR tools (e.g., Workday), and metrics. Example: 'Streamlined onboarding for 20+ new hires, reducing processing time by 15%.' Use keywords like 'employee engagement.'"
+  },
+  {
+    "instruction": "What\u2019s a good way to handle employment gaps on my resume?",
+    "input": "",
+    "output": "Use a functional resume to focus on skills, or briefly explain gaps in a cover letter (e.g., pursuing education). List freelance or volunteer work during gaps to show activity."
+  },
+  {
+    "instruction": "How do I answer 'What are your career goals?' in an interview?",
+    "input": "",
+    "output": "Align your goals with the company\u2019s mission. Example: 'I aim to grow as a software developer, specializing in cloud solutions, and contribute to [Company\u2019s] innovative projects over the next 3\u20135 years.'"
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Did research for a project.",
+    "output": "Conducted in-depth research for a market analysis project, identifying trends that informed a 10% cost-saving strategy."
+  },
+  {
+    "instruction": "How do I write a resume for a part-time job as a student?",
+    "input": "",
+    "output": "Focus on transferable skills from school or activities. Example: For a retail job, list 'Managed event logistics for a 50-person club, ensuring timely execution.' Keep it concise and relevant."
+  },
+  {
+    "instruction": "How can I improve my elevator pitch for networking events?",
+    "input": "",
+    "output": "Keep it 30 seconds, mentioning your background, skills, and goals. Example: 'I\u2019m a CS student skilled in Python and data analysis, seeking software development roles to build impactful solutions.' Practice for confidence."
+  },
+  {
+    "instruction": "How do I list foreign language skills on my resume?",
+    "input": "",
+    "output": "Include them under 'Skills' with proficiency levels. Example: 'Languages: Spanish (Fluent), French (Intermediate).' Only list languages relevant to the job or where you\u2019re conversational."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a data science role?",
+    "input": "Worked with data to find patterns.",
+    "output": "Analyzed datasets using Python and Scikit-learn to identify patterns, improving predictive model accuracy by 12%."
+  },
+  {
+    "instruction": "How do I prepare for a job fair?",
+    "input": "",
+    "output": "Research companies attending, tailor your resume, and practice a 30-second pitch. Bring 10\u201315 resume copies, dress professionally, and ask recruiters specific questions about roles or company culture."
+  },
+  {
+    "instruction": "How can I showcase adaptability on my resume?",
+    "input": "",
+    "output": "Highlight situations where you adjusted to challenges. Example: 'Adapted to a new project management tool, training 5 team members and improving workflow efficiency by 10%.'"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe customer service skills on my resume?",
+    "input": "",
+    "output": "Use metrics and specific examples. Example: 'Resolved 100+ customer inquiries weekly, maintaining a 98% satisfaction rating through empathetic communication.'"
+  },
+  {
+    "instruction": "How do I answer 'Why should we hire you?' in an interview?",
+    "input": "",
+    "output": "Highlight your unique skills and fit. Example: 'My Python expertise and experience building scalable apps align with [Company\u2019s] goals, and my proactive approach ensures I\u2019ll contribute immediately.'"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for an engineering role?",
+    "input": "Worked on a robotics project.",
+    "output": "Designed and programmed a robotic arm using Arduino, reducing task completion time by 20% in a university competition."
+  },
+  {
+    "instruction": "How do I list publications on my resume?",
+    "input": "",
+    "output": "Create a 'Publications' section. Example: 'Author, \u201cAI in Healthcare,\u201d Journal of Tech, June 2024.' Use APA/MLA format and include only relevant, peer-reviewed work."
+  },
+  {
+    "instruction": "How can I optimize my resume for a UX/UI designer role?",
+    "input": "",
+    "output": "Include a portfolio link, list tools like Figma or Sketch, and quantify impact. Example: 'Designed user flows for a mobile app, improving user satisfaction by 15% based on feedback.'"
+  },
+  {
+    "instruction": "What\u2019s a good way to handle tough interview questions?",
+    "input": "",
+    "output": "Stay calm, pause to think, and use STAR to structure answers. For tricky questions like salary expectations, deflect politely: \u2018I\u2019d like to learn more about the role\u2019s responsibilities first.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point to highlight initiative?",
+    "input": "Followed instructions to complete tasks.",
+    "output": "Proactively streamlined task workflows, implementing a new tracking system that reduced project delays by 15%."
+  },
+  {
+    "instruction": "How do I write a thank-you email after an interview?",
+    "input": "",
+    "output": "Keep it short, thank the interviewer, and reference a specific topic. Example: 'Thank you for discussing [Company\u2019s] AI projects. I\u2019m excited about contributing my Python skills to your team.' Send within 24 hours."
+  },
+  {
+    "instruction": "How can I showcase my attention to detail on my resume?",
+    "input": "",
+    "output": "Use examples with measurable outcomes. Example: 'Reviewed 100+ lines of code daily, identifying 95% of errors before deployment.' Emphasize quality control or accuracy."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe internship tasks on my resume?",
+    "input": "",
+    "output": "Focus on contributions and results. Example: 'Supported marketing campaigns by analyzing data, leading to a 10% increase in email open rates.' Use action verbs like 'developed' or 'analyzed.'"
+  },
+  {
+    "instruction": "How do I prepare for a coding interview?",
+    "input": "",
+    "output": "Practice problems on LeetCode, focus on arrays, strings, and trees, and explain your thought process aloud. Review your resume projects and be ready to code on a whiteboard or IDE."
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Helped with event planning.",
+    "output": "Coordinated logistics for a 200-person event, securing vendors and managing budget to save 10% on costs."
+  },
+  {
+    "instruction": "How do I list technical skills for a cybersecurity role?",
+    "input": "",
+    "output": "Include tools and frameworks like Wireshark, Kali Linux, or NIST. Example: 'Technical Skills: Penetration Testing (Metasploit), Network Security (Firewalls), Incident Response.' Tailor to the job."
+  },
+  {
+    "instruction": "How can I improve my resume for a non-technical role?",
+    "input": "",
+    "output": "Emphasize soft skills, leadership, and measurable results. Example: For a sales role, 'Negotiated with 10+ clients monthly, securing $50K in contracts.' Use a clean, simple format."
+  },
+  {
+    "instruction": "What\u2019s a good way to answer 'What\u2019s your greatest achievement?'",
+    "input": "",
+    "output": "Choose a specific, job-relevant story. Example: 'I led a team to develop an app that won a university hackathon, showcasing my coding and leadership skills.' Use STAR to structure it."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a business analyst role?",
+    "input": "Worked on data reports.",
+    "output": "Developed data-driven reports using Power BI, enabling 10% faster decision-making for cross-functional teams."
+  },
+  {
+    "instruction": "How do I list hackathon experience on my resume?",
+    "input": "",
+    "output": "Include it under 'Projects' or 'Experience.' Example: 'Hackathon Participant | TechFest 2024\n- Built a real-time chat app in 24 hours, earning 2nd place among 50 teams.' Highlight skills used."
+  },
+  {
+    "instruction": "How can I optimize my resume for a supply chain role?",
+    "input": "",
+    "output": "Highlight logistics, data analysis, and tools like SAP. Example: 'Optimized inventory processes, reducing stockouts by 12% through demand forecasting.' Use job-specific keywords."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe analytical skills on my resume?",
+    "input": "",
+    "output": "Show impact through examples. Example: 'Analyzed user data to identify trends, driving a 15% increase in app engagement through targeted features.'"
+  },
+  {
+    "instruction": "How do I answer 'What motivates you?' in an interview?",
+    "input": "",
+    "output": "Tie your motivation to the role. Example: 'I\u2019m motivated by solving complex problems, like optimizing code to improve user experience, which aligns with [Company\u2019s] innovative projects.'"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a healthcare role?",
+    "input": "Helped with patient care tasks.",
+    "output": "Supported patient care for 20+ individuals daily, ensuring accurate documentation and improving care delivery efficiency by 10%."
+  },
+  {
+    "instruction": "How do I list online courses on my resume?",
+    "input": "",
+    "output": "Include them under 'Certifications' or 'Education.' Example: 'Completed Machine Learning Specialization | Coursera | Mar 2024.' Only list courses relevant to the job."
+  },
+  {
+    "instruction": "How can I optimize my resume for a product management role?",
+    "input": "",
+    "output": "Highlight prioritization, collaboration, and metrics. Example: 'Led product feature development, increasing user adoption by 20% through customer feedback analysis.' Include tools like Jira."
+  },
+  {
+    "instruction": "What\u2019s a good way to handle salary expectation questions?",
+    "input": "",
+    "output": "Research market rates and give a range. Example: \u2018Based on my research, I\u2019d expect $X\u2013$Y for this role, but I\u2019m open to discussing based on the full package.\u2019 Stay flexible."
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Did some quality assurance testing.",
+    "output": "Performed quality assurance testing for a web app, reducing defect rate by 15% through automated scripts."
+  },
+  {
+    "instruction": "How do I list teamwork experience from a club on my resume?",
+    "input": "",
+    "output": "Include it under 'Activities' or 'Leadership.' Example: 'Event Coordinator, Robotics Club | Sep 2023\u2013May 2024\n- Led a 10-member team to organize a tech expo, attracting 200+ attendees.'"
+  },
+  {
+    "instruction": "How can I prepare for a panel interview?",
+    "input": "",
+    "output": "Research each interviewer\u2019s role, address everyone when answering, and maintain eye contact. Prepare concise STAR stories and ask thoughtful questions about team dynamics."
+  },
+  {
+    "instruction": "How do I optimize my resume for a digital marketing role?",
+    "input": "",
+    "output": "Highlight SEO, analytics, and campaign results. Example: 'Managed Google Ads campaigns, increasing click-through rates by 18%.' Include tools like Google Analytics or HubSpot."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe creativity on my resume?",
+    "input": "",
+    "output": "Showcase innovative outcomes. Example: 'Designed a unique marketing campaign, boosting brand awareness by 25% through creative visuals.' Emphasize measurable impact."
+  },
+  {
+    "instruction": "How do I answer 'How do you handle stress?' in an interview?",
+    "input": "",
+    "output": "Provide a positive example. Example: \u2018I manage stress by prioritizing tasks and staying organized, like when I successfully delivered a project under a tight deadline by breaking it into manageable steps.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a journalism role?",
+    "input": "Wrote articles for a school paper.",
+    "output": "Authored 15+ feature articles for university newspaper, increasing readership by 10% through engaging storytelling."
+  },
+  {
+    "instruction": "How do I list database skills on my resume?",
+    "input": "",
+    "output": "Include them under 'Skills' with specific tools. Example: 'Database Management: MySQL, MongoDB, Oracle.' Mention proficiency or projects, like \u2018Built a relational database for 10K+ records.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a consulting role?",
+    "input": "",
+    "output": "Emphasize problem-solving, client interaction, and data analysis. Example: 'Developed a cost-saving strategy for a client, reducing expenses by 8% through process optimization.' Use keywords like \u2018stakeholder engagement.\u2019"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe multitasking skills on my resume?",
+    "input": "",
+    "output": "Highlight efficiency in juggling tasks. Example: 'Managed 3 simultaneous projects, meeting all deadlines while maintaining 95% client satisfaction.'"
+  },
+  {
+    "instruction": "How do I answer 'What makes you unique?' in an interview?",
+    "input": "",
+    "output": "Focus on a specific strength. Example: \u2018My ability to translate complex data into actionable insights, honed through multiple analytics projects, sets me apart for [Company\u2019s] data-driven goals.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for an environmental role?",
+    "input": "Worked on a sustainability project.",
+    "output": "Led a sustainability initiative, reducing campus waste by 20% through recycling program enhancements."
+  },
+  {
+    "instruction": "How do I list public speaking experience on my resume?",
+    "input": "",
+    "output": "Include it under 'Skills' or 'Experience.' Example: 'Delivered 5+ presentations to 50+ attendees at university events, earning positive feedback for clarity and engagement.'"
+  },
+  {
+    "instruction": "How can I optimize my resume for a mechanical engineering role?",
+    "input": "",
+    "output": "Highlight CAD tools, prototyping, and project outcomes. Example: 'Designed a robotic component using SolidWorks, reducing production costs by 10%.' Use keywords like \u2018FEA\u2019 or \u2018manufacturing.\u2019"
+  },
+  {
+    "instruction": "What\u2019s a good way to handle a question about a failed project?",
+    "input": "",
+    "output": "Focus on lessons learned. Example: \u2018A project missed a deadline due to scope creep, but I implemented better planning tools, ensuring future projects stayed on track.\u2019 Show growth."
+  },
+  {
+    "instruction": "Can you suggest a better way to phrase this resume bullet point?",
+    "input": "Helped with customer support.",
+    "output": "Provided exceptional customer support to 100+ clients weekly, resolving 95% of issues on first contact."
+  },
+  {
+    "instruction": "How do I list Agile experience on my resume?",
+    "input": "",
+    "output": "Include it under 'Skills' or 'Experience.' Example: 'Applied Agile methodologies in a 6-person team, delivering 3 sprints on time with 98% client approval.' Mention tools like Jira."
+  },
+  {
+    "instruction": "How can I optimize my resume for a public relations role?",
+    "input": "",
+    "output": "Highlight media relations, writing, and metrics. Example: 'Crafted press releases for 5 campaigns, securing coverage in 10+ national outlets.' Include tools like Cision."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe organizational skills on my resume?",
+    "input": "",
+    "output": "Show measurable impact. Example: 'Organized a 100-person conference, coordinating logistics and vendors to ensure a 95% attendee satisfaction rate.'"
+  },
+  {
+    "instruction": "How do I answer 'How do you work in a team?' in an interview?",
+    "input": "",
+    "output": "Use a specific example. Example: \u2018I collaborated on a project, dividing tasks based on strengths, which led to delivering a solution 2 days early.\u2019 Emphasize communication."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a legal role?",
+    "input": "Assisted with case research.",
+    "output": "Conducted legal research for 10+ cases, drafting memos that supported successful client outcomes in 80% of cases."
+  },
+  {
+    "instruction": "How do I list cloud computing skills on my resume?",
+    "input": "",
+    "output": "Include platforms under 'Skills.' Example: 'Cloud Computing: AWS (EC2, S3), Azure.' Highlight projects, like \u2018Deployed a scalable app on AWS, reducing costs by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for an operations role?",
+    "input": "",
+    "output": "Focus on process improvement and metrics. Example: 'Streamlined warehouse operations, reducing delivery times by 12% through inventory optimization.' Use keywords like \u2018logistics.\u2019"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe initiative on my resume?",
+    "input": "",
+    "output": "Highlight proactive actions. Example: 'Proposed and implemented a new tracking system, cutting project reporting time by 20%.' Emphasize measurable results."
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your leadership style?' in an interview?",
+    "input": "",
+    "output": "Describe a collaborative approach. Example: \u2018I lead by setting clear goals and empowering team members, like when I guided a project to completion 10% under budget.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for an education role?",
+    "input": "Helped students with assignments.",
+    "output": "Mentored 25+ students on assignments, improving completion rates by 15% through tailored feedback."
+  },
+  {
+    "instruction": "How do I list AI/ML skills on my resume?",
+    "input": "",
+    "output": "Include tools and frameworks under 'Skills.' Example: 'AI/ML: TensorFlow, PyTorch, Scikit-learn.' Add projects, like \u2018Built a predictive model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a financial analyst role?",
+    "input": "",
+    "output": "Highlight Excel, forecasting, and metrics. Example: 'Developed financial models in Excel, improving budget accuracy by 10%.' Include certifications like CFA if applicable."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility in action. Example: 'Adapted to a new CRM tool, training 10 team members and boosting sales tracking efficiency by 15%.'"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest challenge?' in an interview?",
+    "input": "",
+    "output": "Choose a challenge you overcame. Example: \u2018I struggled with public speaking but joined a club to practice, now confidently presenting to 50+ people.\u2019 Show growth."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a tech support role?",
+    "input": "Fixed computer issues.",
+    "output": "Resolved 50+ technical issues weekly, achieving a 95% customer satisfaction rate through efficient troubleshooting."
+  },
+  {
+    "instruction": "How do I list project management tools on my resume?",
+    "input": "",
+    "output": "Include them under 'Skills.' Example: 'Project Management: Jira, Trello, Asana.' Highlight usage, like \u2018Managed 5 projects in Jira, delivering 100% on time.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for an event planning role?",
+    "input": "",
+    "output": "Highlight logistics and client interaction. Example: 'Planned 10+ events for 50\u2013200 attendees, maintaining budgets 10% under target.\u2019 Include tools like Eventbrite."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe communication skills on my resume?",
+    "input": "",
+    "output": "Use specific examples. Example: 'Facilitated 10+ client meetings, ensuring clear communication and 90% project approval rates.'"
+  },
+  {
+    "instruction": "How do I answer 'Why did you choose this career?' in an interview?",
+    "input": "",
+    "output": "Tie your passion to the role. Example: \u2018I chose software development because I love solving problems, like building apps that improve user experiences.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a research role?",
+    "input": "Did experiments in a lab.",
+    "output": "Conducted 20+ lab experiments, analyzing data to support a published study on renewable energy efficiency."
+  },
+  {
+    "instruction": "How do I list networking skills on my resume?",
+    "input": "",
+    "output": "Include them under 'Skills' or 'Experience.' Example: 'Networking: Cisco, TCP/IP, VPN.\u2019 Add context, like \u2018Configured networks for 50+ users, ensuring 99% uptime.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a social work role?",
+    "input": "",
+    "output": "Highlight empathy, case management, and outcomes. Example: 'Supported 15+ clients with resource access, improving quality of life for 80%.\u2019 Use keywords like \u2018advocacy.\u2019"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show impact. Example: 'Resolved a supply chain bottleneck, reducing delivery delays by 25% through process analysis.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your work style?' in an interview?",
+    "input": "",
+    "output": "Describe your approach with examples. Example: \u2018I\u2019m collaborative and detail-oriented, like when I coordinated a team to meet a tight deadline with 100% accuracy.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a graphic design role?",
+    "input": "Made some designs for a website.",
+    "output": "Created 10+ website designs using Figma, enhancing user engagement by 20% based on client feedback."
+  },
+  {
+    "instruction": "How do I list statistical skills on my resume?",
+    "input": "",
+    "output": "Include tools under 'Skills.' Example: 'Statistical Analysis: R, SPSS, Excel.\u2019 Add projects, like \u2018Analyzed survey data, identifying trends for a 15% strategy improvement.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a nonprofit role?",
+    "input": "",
+    "output": "Highlight mission-driven work and impact. Example: 'Raised $5K for a nonprofit through a crowdfunding campaign, increasing program reach by 30%.\u2019 Use keywords like \u2018fundraising.\u2019"
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show results. Example: 'Led a 5-person team to develop a mobile app, launching 1 week early with 95% user satisfaction.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a relevant strength. Example: \u2018My strength is problem-solving, like when I optimized a database query to save 20% processing time.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a logistics role?",
+    "input": "Helped with shipping tasks.",
+    "output": "Streamlined shipping processes for 100+ orders daily, reducing delivery times by 15% through route optimization."
+  },
+  {
+    "instruction": "How do I list video editing skills on my resume?",
+    "input": "",
+    "output": "Include tools under 'Skills.' Example: 'Video Editing: Adobe Premiere, Final Cut Pro.\u2019 Add impact, like \u2018Edited 10+ promotional videos, increasing views by 25%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a teaching role?",
+    "input": "",
+    "output": "Highlight lesson planning and student outcomes. Example: 'Developed 20+ lesson plans, improving student engagement by 15%.\u2019 Include certifications like teaching credentials."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork on my resume?",
+    "input": "",
+    "output": "Use examples. Example: 'Collaborated with a 6-person team to launch a website, meeting all milestones on time.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Where do you see yourself in 5 years?'",
+    "input": "",
+    "output": "Align with the role. Example: \u2018In 5 years, I see myself leading AI projects at [Company], building on my current data science skills.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a sales role?",
+    "input": "Talked to customers about products.",
+    "output": "Engaged 50+ customers daily, driving $10K in monthly sales through product expertise and relationship-building."
+  },
+  {
+    "instruction": "How do I list web development skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under 'Skills.' Example: 'Web Development: React, Node.js, HTML/CSS.\u2019 Add projects, like \u2018Built a responsive site with 10K+ monthly users.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for an architecture role?",
+    "input": "",
+    "output": "Highlight design tools and project impact. Example: 'Designed 5+ building models using AutoCAD, meeting 100% of client specifications.\u2019 Include a portfolio link."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe time management on my resume?",
+    "input": "",
+    "output": "Show efficiency. Example: \u2018Balanced 3 projects and coursework, delivering all assignments on time with a 3.9 GPA.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to learning?'",
+    "input": "",
+    "output": "Highlight proactive learning. Example: \u2018I stay current by taking online courses, like a recent ML certification that improved my project efficiency.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a marketing role?",
+    "input": "Posted on social media.",
+    "output": "Developed and posted social media content, growing engagement by 20% across platforms."
+  },
+  {
+    "instruction": "How do I list data visualization skills on my resume?",
+    "input": "",
+    "output": "Include tools under 'Skills.' Example: 'Data Visualization: Tableau, Power BI.\u2019 Add impact, like \u2018Created 10+ dashboards, improving decision-making speed by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a journalism role?",
+    "input": "",
+    "output": "Highlight writing and research skills. Example: \u2018Authored 20+ articles, increasing website traffic by 12%.\u2019 Include a portfolio link and tools like AP Style."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a hospitality role?",
+    "input": "Served guests in a restaurant.",
+    "output": "Provided exceptional service to 100+ guests daily, achieving a 95% satisfaction rating."
+  },
+  {
+    "instruction": "How do I list mobile app development skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under 'Skills.' Example: 'Mobile Development: Flutter, React Native.\u2019 Add projects, like \u2018Developed an app with 5K+ downloads.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a civil engineering role?",
+    "input": "",
+    "output": "Highlight technical skills and project impact. Example: \u2018Designed a bridge model using SAP2000, meeting 100% of safety standards.\u2019 Include certifications like EIT."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for an IT role?",
+    "input": "Fixed network issues.",
+    "output": "Diagnosed and resolved 30+ network issues monthly, ensuring 99.9% system uptime."
+  },
+  {
+    "instruction": "How do I list certifications for a non-technical role?",
+    "input": "",
+    "output": "Include them under 'Certifications.' Example: 'Certified Professional in Talent Development | ATD | Jun 2024.\u2019 Only list relevant certifications."
+  },
+  {
+    "instruction": "How can I optimize my resume for a creative writing role?",
+    "input": "",
+    "output": "Highlight storytelling and publications. Example: \u2018Wrote 10+ short stories, published in 3 literary journals.\u2019 Include a portfolio link."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a finance role?",
+    "input": "Looked at budgets.",
+    "output": "Analyzed departmental budgets, identifying 10% cost savings through expense optimization."
+  },
+  {
+    "instruction": "How can I optimize my resume for a data engineering role?",
+    "input": "",
+    "output": "Highlight ETL and cloud tools. Example: \u2018Built data pipelines using Apache Spark, processing 1M+ records daily.\u2019 Include skills like SQL and AWS."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a customer service role?",
+    "input": "Answered customer calls.",
+    "output": "Handled 80+ customer calls daily, resolving 90% of inquiries on first contact."
+  },
+  {
+    "instruction": "How can I optimize my resume for a policy analyst role?",
+    "input": "",
+    "output": "Highlight research and communication. Example: \u2018Authored 5 policy briefs, influencing 10% budget allocation changes.\u2019 Include skills like Stata."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail role?",
+    "input": "Stocked shelves in a store.",
+    "output": "Managed inventory and stocked shelves for a high-traffic store, reducing restock time by 20%."
+  },
+  {
+    "instruction": "How can I optimize my resume for a chemical engineering role?",
+    "input": "",
+    "output": "Highlight lab skills and outcomes. Example: \u2018Optimized a chemical process, increasing yield by 12%.\u2019 Include tools like Aspen Plus."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a nursing role?",
+    "input": "Cared for patients.",
+    "output": "Provided compassionate care to 15+ patients daily, improving recovery rates by 10% through attentive monitoring."
+  },
+  {
+    "instruction": "How can I optimize my resume for a software testing role?",
+    "input": "",
+    "output": "Highlight testing tools and metrics. Example: \u2018Automated 50+ test cases using Selenium, reducing testing time by 20%.\u2019 Include skills like JUnit."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a photography role?",
+    "input": "Took photos for events.",
+    "output": "Captured high-quality images for 10+ events, increasing client bookings by 15% through portfolio showcases."
+  },
+  {
+    "instruction": "How can I optimize my resume for a public health role?",
+    "input": "",
+    "output": "Highlight data analysis and outreach. Example: \u2018Analyzed health data for 5K+ patients, informing a 10% more effective campaign.\u2019 Include skills like SAS."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a content creation role?",
+    "input": "Made videos for a channel.",
+    "output": "Produced 20+ engaging videos for a YouTube channel, growing subscribers by 25% in 6 months."
+  },
+  {
+    "instruction": "How can I optimize my resume for a real estate role?",
+    "input": "",
+    "output": "Highlight sales and client skills. Example: \u2018Closed 10+ property deals, achieving $1M in sales through negotiation.\u2019 Include tools like MLS."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for an accounting role?",
+    "input": "Did bookkeeping tasks.",
+    "output": "Managed bookkeeping for 5 clients, ensuring 100% accuracy in financial records using QuickBooks."
+  },
+  {
+    "instruction": "How can I optimize my resume for a sports management role?",
+    "input": "",
+    "output": "Highlight event planning and teamwork. Example: \u2018Organized a 500-person sports event, increasing attendance by 15%.\u2019 Include skills like budgeting."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a travel industry role?",
+    "input": "Helped with travel bookings.",
+    "output": "Managed travel bookings for 50+ clients monthly, achieving 95% satisfaction through personalized itineraries."
+  },
+  {
+    "instruction": "How can I optimize my resume for a fashion design role?",
+    "input": "",
+    "output": "Highlight creativity and tools. Example: \u2018Designed 10+ clothing pieces, showcased in a university exhibition.\u2019 Include a portfolio link and skills like Adobe Illustrator."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a music industry role?",
+    "input": "Helped with music events.",
+    "output": "Coordinated 5+ music events, attracting 300+ attendees and increasing ticket sales by 20%."
+  },
+  {
+    "instruction": "How can I optimize my resume for a veterinary role?",
+    "input": "",
+    "output": "Highlight animal care and technical skills. Example: \u2018Assisted in 50+ surgeries, ensuring 100% compliance with protocols.\u2019 Include certifications."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for an urban planning role?",
+    "input": "Worked on city projects.",
+    "output": "Contributed to 3 urban planning projects, improving public space accessibility for 10K+ residents."
+  },
+  {
+    "instruction": "How can I optimize my resume for a renewable energy role?",
+    "input": "",
+    "output": "Highlight technical skills and impact. Example: \u2018Analyzed solar panel efficiency, increasing output by 10%.\u2019 Include tools like MATLAB."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a fitness role?",
+    "input": "Trained clients at a gym.",
+    "output": "Coached 20+ clients monthly, improving fitness goals for 85% through tailored workout plans."
+  },
+  {
+    "instruction": "How can I optimize my resume for a library science role?",
+    "input": "",
+    "output": "Highlight organization and research. Example: \u2018Managed 5K+ digital records, improving access efficiency by 20%.\u2019 Include tools like MARC."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a translation role?",
+    "input": "Translated documents.",
+    "output": "Translated 50+ documents from Spanish to English, ensuring 100% accuracy for client contracts."
+  },
+  {
+    "instruction": "How can I optimize my resume for a geology role?",
+    "input": "",
+    "output": "Highlight fieldwork and tools. Example: \u2018Conducted 10+ field surveys, mapping resources with 95% accuracy.\u2019 Include skills like Petrel."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a culinary role?",
+    "input": "Cooked meals in a kitchen.",
+    "output": "Prepared 50+ meals daily, maintaining 98% customer satisfaction through creative recipes."
+  },
+  {
+    "instruction": "How can I optimize my resume for a museum curator role?",
+    "input": "",
+    "output": "Highlight curation and research. Example: \u2018Curated 3 exhibits, increasing visitor engagement by 20%.\u2019 Include skills like cataloging."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a psychology role?",
+    "input": "Helped with research studies.",
+    "output": "Supported 5 psychology studies, analyzing data for 500+ participants with 95% accuracy."
+  },
+  {
+    "instruction": "How can I optimize my resume for an anthropology role?",
+    "input": "",
+    "output": "Highlight fieldwork and analysis. Example: \u2018Conducted 3 ethnographic studies, publishing findings in a journal.\u2019 Include skills like NVivo."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a tourism role?",
+    "input": "Helped with tour planning.",
+    "output": "Planned 10+ group tours, increasing bookings by 20% through customized itineraries."
+  },
+  {
+    "instruction": "How can I optimize my resume for a marine biology role?",
+    "input": "",
+    "output": "Highlight fieldwork and data skills. Example: \u2018Conducted 5+ marine surveys, analyzing data for conservation reports.\u2019 Include tools like R."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a film production role?",
+    "input": "Helped with video shoots.",
+    "output": "Coordinated 5+ video shoots, ensuring 100% on-time delivery for client projects."
+  },
+  {
+    "instruction": "How can I optimize my resume for a nutritionist role?",
+    "input": "",
+    "output": "Highlight client work and certifications. Example: \u2018Developed meal plans for 20+ clients, improving health outcomes by 15%.\u2019 Include RD credential."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a cybersecurity role?",
+    "input": "Did security checks.",
+    "output": "Performed security audits on 50+ systems, mitigating 95% of vulnerabilities."
+  },
+  {
+    "instruction": "How can I optimize my resume for a zoology role?",
+    "input": "",
+    "output": "Highlight fieldwork and research. Example: \u2018Studied 10+ species, publishing findings in a journal.\u2019 Include skills like statistical analysis."
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for an interior design role?",
+    "input": "Worked on design projects.",
+    "output": "Designed 5+ interior spaces, increasing client satisfaction by 20% through creative layouts."
+  },
+  {
+    "instruction": "How can I optimize my resume for a linguistics role?",
+    "input": "",
+    "output": "Highlight language analysis and research. Example: \u2018Analyzed 5+ languages, publishing a paper on syntax.\u2019 Include tools like Praat."
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a pharmacy role?",
+    "input": "Helped with prescriptions.",
+    "output": "Processed 100+ prescriptions daily, ensuring 100% accuracy in medication dispensing."
+  },
+  {
+    "instruction": "How can I optimize my resume for a meteorology role?",
+    "input": "",
+    "output": "Highlight data analysis and forecasting. Example: \u2018Developed weather models, improving forecast accuracy by 10%.\u2019 Include tools like MATLAB."
+  },
+  {
+    "instruction": "Show fit. Example: \u2018I\u2019m collaborative, like when I worked with a team to meet a deadline.\u2019",
+    "input": "",
+    "output": "Highlight your work style with a specific example. Example: \u2018I\u2019m collaborative and detail-oriented, as shown when I worked with a 5-person team to deliver a project 2 days early, ensuring all requirements were met.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a logistics role?",
+    "input": "Managed inventory tasks.",
+    "output": "Oversaw inventory management for 1,000+ items, reducing stock discrepancies by 15% through streamlined processes."
+  },
+  {
+    "instruction": "How do I list natural language processing skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018NLP: NLTK, SpaCy, BERT.\u2019 Add projects, like \u2018Developed a chatbot that improved customer response time by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a wildlife conservation role?",
+    "input": "",
+    "output": "Highlight fieldwork and data collection. Example: \u2018Conducted surveys on 10+ species, contributing to a 15% increase in protected habitats.\u2019 Include tools like GIS."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe creativity on my resume?",
+    "input": "",
+    "output": "Show innovative impact. Example: \u2018Created a marketing campaign that boosted engagement by 25% through original content.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle conflict?' in an interview?",
+    "input": "",
+    "output": "Use a positive example. Example: \u2018I resolve conflicts by listening actively, like when I mediated a team disagreement, leading to a 10% faster project completion.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a public relations role?",
+    "input": "Wrote press releases.",
+    "output": "Authored 15+ press releases, securing media coverage in 20+ outlets and increasing brand visibility by 18%."
+  },
+  {
+    "instruction": "How do I list blockchain development skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018Blockchain: Hyperledger, Solidity.\u2019 Add projects, like \u2018Built a decentralized app with 1K+ transactions.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a corporate training role?",
+    "input": "",
+    "output": "Highlight facilitation and outcomes. Example: \u2018Designed training programs for 50+ employees, improving performance metrics by 12%.\u2019 Include tools like LMS."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe time management on my resume?",
+    "input": "",
+    "output": "Show efficiency. Example: \u2018Managed 4 concurrent projects, delivering all on time while maintaining a 3.8 GPA.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest weakness?' in an interview?",
+    "input": "",
+    "output": "Choose a manageable weakness and show improvement. Example: \u2018I used to struggle with public speaking, but I\u2019ve taken courses and now present confidently.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail management role?",
+    "input": "Supervised store staff.",
+    "output": "Led a team of 10 retail staff, increasing sales by 15% through improved training and scheduling."
+  },
+  {
+    "instruction": "How do I list computer vision skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Computer Vision: OpenCV, YOLO.\u2019 Add projects, like \u2018Developed an image recognition model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a grant writing role?",
+    "input": "",
+    "output": "Highlight writing and fundraising success. Example: \u2018Secured $100K in grants through compelling proposals, supporting 3 nonprofit programs.\u2019 Include metrics."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new CRM system, training 5 team members and boosting efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want to work here?' in an interview?",
+    "input": "",
+    "output": "Align with the company\u2019s mission. Example: \u2018I\u2019m inspired by [Company\u2019s] commitment to sustainability, and my data analysis skills can support your goals.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a software engineering role?",
+    "input": "Coded features for an app.",
+    "output": "Developed 10+ app features using Java, improving user engagement by 20% and reducing crashes by 15%."
+  },
+  {
+    "instruction": "How do I list supply chain management skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Supply Chain: SAP, Oracle SCM.\u2019 Add projects, like \u2018Optimized logistics, cutting costs by 12%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a paralegal role?",
+    "input": "",
+    "output": "Highlight research and documentation. Example: \u2018Prepared 50+ legal documents, ensuring 100% compliance with court requirements.\u2019 Include tools like Westlaw."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show measurable impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget, earning client praise.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest achievement?' in an interview?",
+    "input": "",
+    "output": "Choose a relevant story. Example: \u2018I developed a tool that reduced processing time by 15%, showcasing my problem-solving skills.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a social media role?",
+    "input": "Posted content online.",
+    "output": "Curated and posted content across platforms, growing follower base by 25% and engagement by 20% in 6 months."
+  },
+  {
+    "instruction": "How do I list robotics programming skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Robotics: ROS, Python.\u2019 Add projects, like \u2018Programmed a robot to perform tasks with 95% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a community outreach role?",
+    "input": "",
+    "output": "Highlight engagement and impact. Example: \u2018Organized 10+ community events, increasing participation by 30%.\u2019 Include skills like public speaking."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a database issue, improving query speed by 25% through optimization.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you stay motivated?' in an interview?",
+    "input": "",
+    "output": "Tie motivation to growth. Example: \u2018I stay motivated by tackling challenges, like when I learned a new tool to improve project efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a data analysis role?",
+    "input": "Looked at data sets.",
+    "output": "Analyzed complex datasets using Python and SQL, delivering insights that improved business decisions by 15%."
+  },
+  {
+    "instruction": "How do I list cloud architecture skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018Cloud Architecture: AWS, Google Cloud.\u2019 Add projects, like \u2018Designed a scalable cloud solution, reducing costs by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a fundraising role?",
+    "input": "",
+    "output": "Highlight donor relations and results. Example: \u2018Raised $50K through targeted campaigns, expanding program reach by 25%.\u2019 Include tools like Salesforce."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork on my resume?",
+    "input": "",
+    "output": "Show collaboration. Example: \u2018Collaborated with a 5-person team to launch a product, meeting all deadlines with 95% client satisfaction.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to teamwork?' in an interview?",
+    "input": "",
+    "output": "Highlight collaboration. Example: \u2018I foster open communication, like when I coordinated a team to deliver a project 2 days early.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for an HR role?",
+    "input": "Helped with hiring.",
+    "output": "Streamlined recruitment for 20+ roles, reducing time-to-hire by 15% through optimized sourcing strategies."
+  },
+  {
+    "instruction": "How do I list IoT development skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018IoT: MQTT, Node-RED.\u2019 Add projects, like \u2018Developed a smart sensor system with 99% uptime.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a sustainability role?",
+    "input": "",
+    "output": "Highlight environmental impact. Example: \u2018Implemented a recycling program, reducing waste by 20% across 5 departments.\u2019 Include tools like LCA software."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new project management tool, improving team efficiency by 12%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a relevant skill. Example: \u2018My strength is analytical thinking, like when I optimized a process to save 10% on costs.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a customer success role?",
+    "input": "Talked to clients.",
+    "output": "Engaged 50+ clients monthly, achieving a 95% retention rate through proactive support and solutions."
+  },
+  {
+    "instruction": "How do I list game design skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Game Design: Unity, Godot.\u2019 Add projects, like \u2018Designed a game level played by 2K+ users.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a policy research role?",
+    "input": "",
+    "output": "Highlight data analysis and writing. Example: \u2018Authored 5 policy reports, influencing 10% more effective regulations.\u2019 Include tools like R."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 4-person team to complete a project 10% under budget, earning stakeholder approval.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why did you choose this career?' in an interview?",
+    "input": "",
+    "output": "Tie to passion. Example: \u2018I chose data science because I love uncovering insights, like when I improved a model\u2019s accuracy by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a photography role?",
+    "input": "Edited photos for clients.",
+    "output": "Edited 100+ photos for clients using Lightroom, increasing bookings by 20% through high-quality deliverables."
+  },
+  {
+    "instruction": "How do I list database administration skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Database Administration: PostgreSQL, Oracle.\u2019 Add projects, like \u2018Optimized a database, reducing query time by 25%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a mental health role?",
+    "input": "",
+    "output": "Highlight empathy and client outcomes. Example: \u2018Supported 15+ clients with coping strategies, improving wellness scores by 20%.\u2019 Include certifications."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving system uptime by 15% through quick diagnosis.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle pressure?' in an interview?",
+    "input": "",
+    "output": "Show resilience. Example: \u2018I stay calm under pressure, like when I delivered a project under a tight deadline by prioritizing tasks.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a product design role?",
+    "input": "Worked on product prototypes.",
+    "output": "Developed 5+ product prototypes using CAD, reducing production costs by 10% through iterative testing."
+  },
+  {
+    "instruction": "How do I list network security skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Network Security: Wireshark, Splunk.\u2019 Add projects, like \u2018Secured a network, reducing breaches by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a journalism role?",
+    "input": "",
+    "output": "Highlight storytelling and metrics. Example: \u2018Wrote 20+ articles, increasing readership by 15%.\u2019 Include a portfolio link and skills like SEO."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe creativity on my resume?",
+    "input": "",
+    "output": "Show innovation. Example: \u2018Designed a campaign that boosted engagement by 20% through creative visuals.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to learning new skills?' in an interview?",
+    "input": "",
+    "output": "Show proactivity. Example: \u2018I learn through hands-on projects, like when I mastered a new tool to improve efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a finance role?",
+    "input": "Reviewed financial data.",
+    "output": "Analyzed financial data for 10+ clients, identifying 15% cost-saving opportunities using Excel."
+  },
+  {
+    "instruction": "How do I list UI/UX design skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018UI/UX: Figma, Sketch.\u2019 Add projects, like \u2018Designed a user interface, improving retention by 18%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a nonprofit management role?",
+    "input": "",
+    "output": "Highlight leadership and impact. Example: \u2018Managed 5 programs, increasing donor contributions by 20%.\u2019 Include tools like CRM."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe time management on my resume?",
+    "input": "",
+    "output": "Show efficiency. Example: \u2018Balanced 3 projects, delivering all on time with 95% accuracy.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest challenge?' in an interview?",
+    "input": "",
+    "output": "Show growth. Example: \u2018I overcame time management issues by using tools, ensuring timely project delivery.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a marketing role?",
+    "input": "Ran ad campaigns.",
+    "output": "Managed 10+ ad campaigns, increasing ROI by 25% through targeted strategies and A/B testing."
+  },
+  {
+    "instruction": "How do I list data engineering skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Data Engineering: Apache Kafka, Snowflake.\u2019 Add projects, like \u2018Built a pipeline processing 1M+ records daily.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a teaching assistant role?",
+    "input": "",
+    "output": "Highlight instruction and support. Example: \u2018Assisted 30+ students with coursework, improving grades by 10%.\u2019 Include skills like lesson planning."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new software, training 5 team members and boosting efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why should we hire you?' in an interview?",
+    "input": "",
+    "output": "Show fit. Example: \u2018My Python skills and passion for innovation make me a strong fit for [Company\u2019s] projects.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a sales role?",
+    "input": "Sold products to customers.",
+    "output": "Closed $50K+ in sales monthly, exceeding targets by 20% through relationship-building and product expertise."
+  },
+  {
+    "instruction": "How do I list cybersecurity analysis skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cybersecurity: SIEM, Nessus.\u2019 Add projects, like \u2018Analyzed 100+ threats, reducing risks by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a project coordinator role?",
+    "input": "",
+    "output": "Highlight organization and communication. Example: \u2018Coordinated 5 projects, ensuring 100% on-time delivery.\u2019 Include tools like MS Project."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 5-person team to launch a product 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a graphic design role?",
+    "input": "Created logos for clients.",
+    "output": "Designed 10+ logos for clients, increasing brand recognition by 20% through creative concepts."
+  },
+  {
+    "instruction": "How do I list mobile development skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Mobile Development: Swift, Kotlin.\u2019 Add projects, like \u2018Built an app with 10K+ downloads.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a research assistant role?",
+    "input": "",
+    "output": "Highlight data collection and analysis. Example: \u2018Supported 5 studies, analyzing data for 1K+ participants with 95% accuracy.\u2019 Include tools like SPSS."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a system bottleneck, improving performance by 20%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you prioritize tasks?' in an interview?",
+    "input": "",
+    "output": "Explain your method. Example: \u2018I use tools like Trello to rank tasks by urgency, ensuring I met 100% of deadlines.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a customer service role?",
+    "input": "Responded to customer emails.",
+    "output": "Managed 100+ customer emails daily, resolving 95% of issues within 24 hours."
+  },
+  {
+    "instruction": "How do I list business intelligence skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Business Intelligence: Power BI, Looker.\u2019 Add projects, like \u2018Built dashboards, improving decisions by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a content strategy role?",
+    "input": "",
+    "output": "Highlight planning and metrics. Example: \u2018Developed content strategies, increasing traffic by 20%.\u2019 Include tools like Google Analytics."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork on my resume?",
+    "input": "",
+    "output": "Show collaboration. Example: \u2018Worked with a 6-person team to launch a campaign, meeting all deadlines.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to feedback?' in an interview?",
+    "input": "",
+    "output": "Show openness. Example: \u2018I welcome feedback, like when I revised a project based on input, improving outcomes by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for an engineering role?",
+    "input": "Tested equipment.",
+    "output": "Conducted equipment testing, identifying 20+ issues and improving reliability by 15%."
+  },
+  {
+    "instruction": "How do I list API development skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018API Development: REST, GraphQL.\u2019 Add projects, like \u2018Built an API serving 10K+ requests daily.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a public health role?",
+    "input": "",
+    "output": "Highlight data and outreach. Example: \u2018Analyzed health data for 5K+ patients, informing a 10% more effective campaign.\u2019 Include tools like SAS."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new tool, improving team efficiency by 12%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want this job?' in an interview?",
+    "input": "",
+    "output": "Show alignment. Example: \u2018I\u2019m excited by [Company\u2019s] mission, and my skills in Python can contribute to your goals.\u2019"
+  },
+  {
+    "instruction": "Can you rewrite this resume bullet point for a legal assistant role?",
+    "input": "Filed documents.",
+    "output": "Organized and filed 200+ legal documents, ensuring 100% compliance with court deadlines."
+  },
+  {
+    "instruction": "How do I list machine learning skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Machine Learning: TensorFlow, PyTorch.\u2019 Add projects, like \u2018Built a model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a financial planning role?",
+    "input": "",
+    "output": "Highlight analysis and client work. Example: \u2018Developed financial plans for 10+ clients, improving savings by 15%.\u2019 Include tools like Excel."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 5-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest achievement?' in an interview?",
+    "input": "",
+    "output": "Choose a story. Example: \u2018I developed a tool that saved 15% on project time.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a digital marketing role?",
+    "input": "Managed social media ads.",
+    "output": "Optimized social media ad campaigns, increasing click-through rates by 20% using targeted strategies."
+  },
+  {
+    "instruction": "How do I list cloud security skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cloud Security: AWS IAM, Azure Security.\u2019 Add projects, like \u2018Secured cloud infrastructure, reducing risks by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a healthcare administration role?",
+    "input": "",
+    "output": "Highlight organization and compliance. Example: \u2018Managed patient records for 1K+ clients, ensuring 100% HIPAA compliance.\u2019 Include tools like EHR."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a workflow issue, improving efficiency by 20%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle stress?' in an interview?",
+    "input": "",
+    "output": "Show resilience. Example: \u2018I manage stress by prioritizing tasks, like when I delivered a project under a tight deadline.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a writing role?",
+    "input": "Wrote blog posts.",
+    "output": "Authored 20+ blog posts, increasing website traffic by 15% through SEO-optimized content."
+  },
+  {
+    "instruction": "How do I list DevSecOps skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018DevSecOps: Docker, OWASP.\u2019 Add projects, like \u2018Integrated security in CI/CD, reducing vulnerabilities by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a museum education role?",
+    "input": "",
+    "output": "Highlight education and engagement. Example: \u2018Developed 5+ programs, increasing visitor participation by 25%.\u2019 Include skills like curriculum design."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork on my resume?",
+    "input": "",
+    "output": "Show collaboration. Example: \u2018Worked with a 5-person team to launch a project, meeting all deadlines.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to learning?' in an interview?",
+    "input": "",
+    "output": "Show proactivity. Example: \u2018I learn through courses and projects, like a recent certification that improved my skills.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a supply chain role?",
+    "input": "Tracked shipments.",
+    "output": "Monitored 100+ shipments weekly, improving delivery accuracy by 15% through real-time tracking systems."
+  },
+  {
+    "instruction": "How do I list augmented reality development skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018AR Development: Unity, ARCore.\u2019 Add projects, like \u2018Built an AR app with 5K+ users.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a corporate communications role?",
+    "input": "",
+    "output": "Highlight writing and stakeholder engagement. Example: \u2018Crafted 10+ internal campaigns, improving employee engagement by 20%.\u2019 Include tools like Canva."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new system, improving team output by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want this job?' in an interview?",
+    "input": "",
+    "output": "Show alignment. Example: \u2018I\u2019m excited by [Company\u2019s] mission, and my skills in Python can contribute to your goals.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a product management role?",
+    "input": "Worked on product launches.",
+    "output": "Led 3 product launches, increasing user adoption by 25% through cross-functional coordination."
+  },
+  {
+    "instruction": "How do I list blockchain security skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Blockchain Security: Chainalysis, OpenZeppelin.\u2019 Add projects, like \u2018Audited smart contracts, reducing risks by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a community development role?",
+    "input": "",
+    "output": "Highlight outreach and impact. Example: \u2018Led 5 community projects, increasing participation by 30%.\u2019 Include skills like grant writing."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest achievement?' in an interview?",
+    "input": "",
+    "output": "Choose a story. Example: \u2018I developed a tool that saved 15% on project time.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a data science role?",
+    "input": "Built models for analysis.",
+    "output": "Developed predictive models using Python, improving forecast accuracy by 20% for business decisions."
+  },
+  {
+    "instruction": "How do I list web security skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Web Security: Burp Suite, OWASP.\u2019 Add projects, like \u2018Secured a web app, reducing vulnerabilities by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a youth program role?",
+    "input": "",
+    "output": "Highlight engagement and program design. Example: \u2018Developed 5+ youth programs, increasing participation by 25%.\u2019 Include skills like mentoring."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving system performance by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you stay motivated?' in an interview?",
+    "input": "",
+    "output": "Tie to growth. Example: \u2018I stay motivated by solving challenges, like when I improved a process by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a UX research role?",
+    "input": "Conducted user surveys.",
+    "output": "Designed and conducted 10+ user surveys, informing design changes that improved usability by 20%."
+  },
+  {
+    "instruction": "How do I list cloud automation skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cloud Automation: Terraform, Ansible.\u2019 Add projects, like \u2018Automated cloud deployments, saving 15% on setup time.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a public policy role?",
+    "input": "",
+    "output": "Highlight research and advocacy. Example: \u2018Authored 5 policy briefs, influencing 10% budget allocation changes.\u2019 Include tools like Stata."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe teamwork on my resume?",
+    "input": "",
+    "output": "Show collaboration. Example: \u2018Worked with a 5-person team to launch a project, meeting all deadlines.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your approach to teamwork?' in an interview?",
+    "input": "",
+    "output": "Highlight collaboration. Example: \u2018I foster open communication, like when I coordinated a team to deliver a project early.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail role?",
+    "input": "Helped with sales.",
+    "output": "Drove $10K+ in monthly sales, exceeding targets by 15% through customer engagement."
+  },
+  {
+    "instruction": "How do I list data visualization skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Data Visualization: Tableau, D3.js.\u2019 Add projects, like \u2018Created dashboards, improving decisions by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a content creation role?",
+    "input": "",
+    "output": "Highlight creativity and metrics. Example: \u2018Produced 20+ videos, growing audience by 25%.\u2019 Include a portfolio link and tools like Premiere Pro."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new tool, improving team efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why should we hire you?' in an interview?",
+    "input": "",
+    "output": "Show fit. Example: \u2018My skills in Python and passion for innovation make me a strong fit for [Company].\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a software testing role?",
+    "input": "Ran tests on software.",
+    "output": "Executed 50+ test cases using Selenium, reducing defect rates by 20%."
+  },
+  {
+    "instruction": "How do I list AI ethics skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018AI Ethics: Fairness Audits, Bias Mitigation.\u2019 Add projects, like \u2018Developed an ethical AI model, ensuring 95% fairness.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a disaster management role?",
+    "input": "",
+    "output": "Highlight planning and response. Example: \u2018Coordinated 5+ disaster drills, improving response time by 15%.\u2019 Include skills like risk assessment."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a journalism role?",
+    "input": "Reported on local events.",
+    "output": "Covered 10+ local events, publishing articles that increased readership by 15%."
+  },
+  {
+    "instruction": "How do I list quantum computing skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Quantum Computing: Qiskit, Cirq.\u2019 Add projects, like \u2018Simulated a quantum algorithm with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a sports coaching role?",
+    "input": "",
+    "output": "Highlight coaching and outcomes. Example: \u2018Coached a team to a 20% improvement in performance through tailored training.\u2019 Include certifications."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving performance by 20%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle conflict?' in an interview?",
+    "input": "",
+    "output": "Use a positive example. Example: \u2018I resolve conflicts by listening, like when I mediated a team issue, improving collaboration.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a healthcare role?",
+    "input": "Assisted with patient records.",
+    "output": "Managed 1K+ patient records, ensuring 100% accuracy and compliance with HIPAA standards."
+  },
+  {
+    "instruction": "How do I list geospatial analysis skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Geospatial Analysis: ArcGIS, QGIS.\u2019 Add projects, like \u2018Mapped 10K+ data points for urban planning.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a corporate social responsibility role?",
+    "input": "",
+    "output": "Highlight impact and stakeholder engagement. Example: \u2018Led 5 CSR initiatives, increasing community impact by 25%.\u2019 Include skills like reporting."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new system, improving team output by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want this job?' in an interview?",
+    "input": "",
+    "output": "Show alignment. Example: \u2018I\u2019m excited by [Company\u2019s] mission, and my skills in Python can contribute to your goals.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a content writing role?",
+    "input": "Wrote content for websites.",
+    "output": "Crafted 20+ website content pieces, increasing traffic by 15% through SEO strategies."
+  },
+  {
+    "instruction": "How do I list robotics engineering skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Robotics Engineering: ROS, SolidWorks.\u2019 Add projects, like \u2018Built a robot with 95% task accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a renewable energy role?",
+    "input": "",
+    "output": "Highlight technical skills and impact. Example: \u2018Optimized solar panel efficiency, increasing output by 12%.\u2019 Include tools like MATLAB."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 5-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest achievement?' in an interview?",
+    "input": "",
+    "output": "Choose a story. Example: \u2018I developed a tool that saved 15% on project time.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a customer service role?",
+    "input": "Handled customer complaints.",
+    "output": "Resolved 100+ customer complaints monthly, achieving a 95% satisfaction rate."
+  },
+  {
+    "instruction": "How do I list bioinformatics skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Bioinformatics: BLAST, Biopython.\u2019 Add projects, like \u2018Analyzed genomic data for 1K+ samples.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a museum curator role?",
+    "input": "",
+    "output": "Highlight curation and research. Example: \u2018Curated 3 exhibits, increasing visitor engagement by 20%.\u2019 Include skills like cataloging."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a workflow issue, improving efficiency by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you stay motivated?' in an interview?",
+    "input": "",
+    "output": "Tie to growth. Example: \u2018I stay motivated by tackling challenges, like when I improved a process by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a teaching role?",
+    "input": "Taught classes.",
+    "output": "Delivered 20+ engaging lessons, improving student performance by 15% through interactive methods."
+  },
+  {
+    "instruction": "How do I list cloud computing skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018Cloud Computing: AWS, Azure.\u2019 Add projects, like \u2018Deployed a scalable app, reducing costs by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a social work role?",
+    "input": "",
+    "output": "Highlight client support and advocacy. Example: \u2018Supported 20+ clients, improving outcomes by 25%.\u2019 Include certifications like LCSW."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new tool, improving team efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why should we hire you?' in an interview?",
+    "input": "",
+    "output": "Show fit. Example: \u2018My skills in Python and passion for innovation make me a strong fit for [Company].\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a marketing role?",
+    "input": "Created marketing materials.",
+    "output": "Designed 10+ marketing materials, increasing campaign engagement by 20% through creative visuals."
+  },
+  {
+    "instruction": "How do I list cybersecurity skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cybersecurity: Kali Linux, Metasploit.\u2019 Add projects, like \u2018Conducted penetration tests, reducing risks by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a data analyst role?",
+    "input": "",
+    "output": "Highlight tools and metrics. Example: \u2018Analyzed data using SQL, improving decision-making by 15%.\u2019 Include skills like Python and Tableau."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a software development role?",
+    "input": "Wrote code for projects.",
+    "output": "Developed 15+ features using Python, improving app performance by 20% and user satisfaction by 15%."
+  },
+  {
+    "instruction": "How do I list data science skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Data Science: Pandas, Scikit-learn.\u2019 Add projects, like \u2018Built a predictive model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a graphic design role?",
+    "input": "",
+    "output": "Highlight creativity and tools. Example: \u2018Designed 10+ branding assets, increasing client engagement by 20%.\u2019 Include a portfolio link."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving system performance by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle conflict?' in an interview?",
+    "input": "",
+    "output": "Use a positive example. Example: \u2018I resolve conflicts by listening, like when I mediated a team issue, improving collaboration.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail role?",
+    "input": "Managed cash register.",
+    "output": "Operated cash register for 100+ transactions daily, ensuring 100% accuracy and customer satisfaction."
+  },
+  {
+    "instruction": "How do I list project management skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Project Management: Jira, MS Project.\u2019 Add projects, like \u2018Managed 5 projects, delivering 100% on time.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a public relations role?",
+    "input": "",
+    "output": "Highlight media and communication. Example: \u2018Secured 15+ media placements, increasing brand visibility by 20%.\u2019 Include tools like Cision."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new system, improving team efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want this job?' in an interview?",
+    "input": "",
+    "output": "Show alignment. Example: \u2018I\u2019m excited by [Company\u2019s] mission, and my skills in Python can contribute to your goals.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a teaching role?",
+    "input": "Graded assignments.",
+    "output": "Evaluated 100+ assignments monthly, providing feedback that improved student performance by 15%."
+  },
+  {
+    "instruction": "How do I list web development skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Web Development: React, Django.\u2019 Add projects, like \u2018Built a site with 10K+ monthly users.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a customer success role?",
+    "input": "",
+    "output": "Highlight client relations and metrics. Example: \u2018Managed 50+ client accounts, achieving a 95% retention rate.\u2019 Include tools like Salesforce."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 5-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your biggest achievement?' in an interview?",
+    "input": "",
+    "output": "Choose a story. Example: \u2018I developed a tool that saved 15% on project time.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a marketing role?",
+    "input": "Helped with email campaigns.",
+    "output": "Designed 10+ email campaigns, increasing open rates by 20% through targeted content."
+  },
+  {
+    "instruction": "How do I list cybersecurity skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cybersecurity: Nessus, Splunk.\u2019 Add projects, like \u2018Conducted audits, reducing risks by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a data engineering role?",
+    "input": "",
+    "output": "Highlight pipelines and tools. Example: \u2018Built data pipelines using Spark, processing 1M+ records daily.\u2019 Include skills like Hadoop."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a workflow issue, improving efficiency by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you stay motivated?' in an interview?",
+    "input": "",
+    "output": "Tie to growth. Example: \u2018I stay motivated by tackling challenges, like when I improved a process by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a software engineering role?",
+    "input": "Fixed bugs in code.",
+    "output": "Identified and resolved 50+ bugs, improving software stability by 20% using debugging tools."
+  },
+  {
+    "instruction": "How do I list machine learning skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Machine Learning: Keras, Scikit-learn.\u2019 Add projects, like \u2018Built a model with 92% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a product management role?",
+    "input": "",
+    "output": "Highlight prioritization and metrics. Example: \u2018Led product development, increasing user adoption by 25%.\u2019 Include tools like Jira."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new tool, improving team efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why should we hire you?' in an interview?",
+    "input": "",
+    "output": "Show fit. Example: \u2018My skills in Python and passion for innovation make me a strong fit for [Company].\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a finance role?",
+    "input": "Prepared financial reports.",
+    "output": "Generated 10+ financial reports monthly, improving budget accuracy by 15% using Excel."
+  },
+  {
+    "instruction": "How do I list cloud computing skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018Cloud Computing: AWS, Google Cloud.\u2019 Add projects, like \u2018Deployed an app, reducing costs by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a social media role?",
+    "input": "",
+    "output": "Highlight content and metrics. Example: \u2018Grew Instagram following by 30%, increasing engagement by 20%.\u2019 Include tools like Hootsuite."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a data analyst role?",
+    "input": "Analyzed data for reports.",
+    "output": "Analyzed data using SQL and Tableau, producing 10+ reports that improved decisions by 15%."
+  },
+  {
+    "instruction": "How do I list cybersecurity skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cybersecurity: Wireshark, Metasploit.\u2019 Add projects, like \u2018Secured systems, reducing risks by 20%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a customer service role?",
+    "input": "",
+    "output": "Highlight communication and metrics. Example: \u2018Resolved 100+ inquiries daily, achieving 95% satisfaction.\u2019 Include tools like Zendesk."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving performance by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle conflict?' in an interview?",
+    "input": "",
+    "output": "Use a positive example. Example: \u2018I resolve conflicts by listening, like when I mediated a team issue, improving collaboration.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a teaching role?",
+    "input": "Helped students learn.",
+    "output": "Supported 30+ students, improving test scores by 15% through personalized instruction."
+  },
+  {
+    "instruction": "How do I list web development skills on my resume?",
+    "input": "",
+    "output": "Include frameworks under \u2018Skills.\u2019 Example: \u2018Web Development: Vue.js, Flask.\u2019 Add projects, like \u2018Built a site with 5K+ users.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a marketing role?",
+    "input": "",
+    "output": "Highlight campaigns and metrics. Example: \u2018Led 5+ campaigns, increasing ROI by 20%.\u2019 Include tools like Google Ads."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe adaptability on my resume?",
+    "input": "",
+    "output": "Show flexibility. Example: \u2018Adapted to a new system, improving team efficiency by 10%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'Why do you want this job?' in an interview?",
+    "input": "",
+    "output": "Show alignment. Example: \u2018I\u2019m excited by [Company\u2019s] mission, and my skills in Python can contribute to your goals.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a software engineering role?",
+    "input": "Developed software features.",
+    "output": "Built 10+ software features using JavaScript, improving user experience by 20%."
+  },
+  {
+    "instruction": "How do I list data science skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Data Science: R, TensorFlow.\u2019 Add projects, like \u2018Built a model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a product management role?",
+    "input": "",
+    "output": "Highlight prioritization and metrics. Example: \u2018Led product development, increasing user adoption by 25%.\u2019 Include tools like Jira."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 5-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a finance role?",
+    "input": "Managed budgets.",
+    "output": "Oversaw $500K+ budgets, reducing costs by 10% through strategic planning."
+  },
+  {
+    "instruction": "How do I list cloud computing skills on my resume?",
+    "input": "",
+    "output": "Include platforms under \u2018Skills.\u2019 Example: \u2018Cloud Computing: AWS, Azure.\u2019 Add projects, like \u2018Deployed an app, reducing costs by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a social media role?",
+    "input": "",
+    "output": "Highlight content and metrics. Example: \u2018Grew Twitter following by 25%, increasing engagement by 20%.\u2019 Include tools like Sprout Social."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a workflow issue, improving efficiency by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you stay motivated?' in an interview?",
+    "input": "",
+    "output": "Tie to growth. Example: \u2018I stay motivated by tackling challenges, like when I improved a process by 10%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a data analyst role?",
+    "input": "Created data visualizations.",
+    "output": "Developed 10+ data visualizations using Power BI, improving stakeholder insights by 20%."
+  },
+  {
+    "instruction": "How do I list cybersecurity skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Cybersecurity: Splunk, Nessus.\u2019 Add projects, like \u2018Secured systems, reducing risks by 15%.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a customer service role?",
+    "input": "",
+    "output": "Highlight communication and metrics. Example: \u2018Resolved 100+ inquiries daily, achieving 95% satisfaction.\u2019 Include tools like Zendesk."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe leadership on my resume?",
+    "input": "",
+    "output": "Show impact. Example: \u2018Led a 6-person team to deliver a project 10% under budget.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'What\u2019s your greatest strength?' in an interview?",
+    "input": "",
+    "output": "Choose a skill. Example: \u2018My strength is problem-solving, like when I optimized a process by 15%.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a software engineering role?",
+    "input": "Wrote code for apps.",
+    "output": "Developed 15+ app features using Python, improving performance by 20%."
+  },
+  {
+    "instruction": "How do I list data science skills on my resume?",
+    "input": "",
+    "output": "Include tools under \u2018Skills.\u2019 Example: \u2018Data Science: Pandas, Scikit-learn.\u2019 Add projects, like \u2018Built a model with 90% accuracy.\u2019"
+  },
+  {
+    "instruction": "How can I optimize my resume for a graphic design role?",
+    "input": "",
+    "output": "Highlight creativity and tools. Example: \u2018Designed 10+ branding assets, increasing engagement by 20%.\u2019 Include a portfolio link."
+  },
+  {
+    "instruction": "What\u2019s a good way to describe problem-solving on my resume?",
+    "input": "",
+    "output": "Show results. Example: \u2018Resolved a technical issue, improving performance by 15%.\u2019"
+  },
+  {
+    "instruction": "How do I answer 'How do you handle conflict?' in an interview?",
+    "input": "",
+    "output": "Use a positive example. Example: \u2018I resolve conflicts by listening, like when I mediated a team issue, improving collaboration.\u2019"
+  },
+  {
+    "instruction": "Can you improve this resume bullet point for a retail role?",
+    "input": "Assisted customers.",
+    "output": "Supported 100+ customers daily, achieving a 95% satisfaction rate through personalized service."
+  }
+]
